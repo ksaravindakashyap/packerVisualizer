@@ -1,0 +1,20 @@
+ErrorDocument 404 /index.php
+
+# Turn Rewrite Engine On
+#RewriteEngine on
+
+# Rewrite for projects.php
+#RewriteRule ^home$ index.php [NC,L]
+
+
+# NC makes the rule non case sensitive
+# L makes this the last rule that this specific condition will match
+# $ in the regular expression makes the matching stop so that "customblah" will not work
+
+RewriteEngine on
+
+RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
+RewriteRule ^ /%1 [NC,L,R]
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php  [NC,L]

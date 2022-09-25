@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/ciscomanan/public_html
+group: ciscomanan
+hascgi: 1
+homedir: /home/ciscomanan
+ip: 176.9.84.42
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@cisco.mananraj.co.in
+serveralias: mail.cisco.mananraj.co.in www.cisco.mananraj.co.in
+servername: cisco.mananraj.co.in
+ssl: 1
+usecanonicalname: 'Off'
+user: ciscomanan
+userdirprotect: ''

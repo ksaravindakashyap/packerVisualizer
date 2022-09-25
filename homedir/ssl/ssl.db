@@ -1,0 +1,130 @@
+--- 
+files: 
+  certificate: 
+    _wildcard__cisco_mananraj_co_in_e72ad_a3d8d_1664336622_7991d167ee9474468a1769e432e1456a: 
+      created: '1656564223'
+      domains: 
+        - "*.cisco.mananraj.co.in"
+        - cisco.mananraj.co.in
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “cisco.mananraj.co.in” 1656564223.0
+      id: _wildcard__cisco_mananraj_co_in_e72ad_a3d8d_1664336622_7991d167ee9474468a1769e432e1456a
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: e72ad9f397021daf91ef2f2b153c70d7eb7ee3f7212324b0c9944076931bf54bdbd749a19267d07c8c112292cc21e712c9163597a983d27ea9072299c82c1485a513f005f966f9b7b0b4a41a2c2bc0db5d1d1fbce1839bd5adb6189177702b15e5e24741cb8964fcb98b73218496eb0805c884e7b7bb445acb438a0103332674aecc5a26f843d242b5aab8b2857163d6ef2d989b82e2b80f8de47f2f981b29e5fd784a9eb6db9fe2ae9273a49d781874c9f7f1ec31a855ff00bfced851bb496710b367e735922c8f539c2ccee8e396feb8b3b8ae77181319692799cb87744adf037483b35d0829c01b24eba493cf210fa37ee00a425f005e93c61e57937a3d8d
+      modulus_length: 2048
+      not_after: '1664336622'
+      not_before: '1656560623'
+      serial: 03a84188bff1a31bb3a04f932fcaa511758d
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: "*.cisco.mananraj.co.in"
+      validation_type: dv
+    cisco_mananraj_co_in_dc274_aba6d_1688100100_639b7047573ec9b11eebe21f80e939ae: 
+      created: '1656564100'
+      domains: 
+        - cisco.mananraj.co.in
+        - mail.cisco.mananraj.co.in
+        - www.cisco.mananraj.co.in
+        - cpanel.cisco.mananraj.co.in
+        - webmail.cisco.mananraj.co.in
+        - webdisk.cisco.mananraj.co.in
+        - cpcontacts.cisco.mananraj.co.in
+        - cpcalendars.cisco.mananraj.co.in
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “cisco.mananraj.co.in”
+      id: cisco_mananraj_co_in_dc274_aba6d_1688100100_639b7047573ec9b11eebe21f80e939ae
+      is_self_signed: 1
+      issuer.commonName: cisco.mananraj.co.in
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: dc2747503d71014c254611a24b417777330939ac6f0860468051483264f26be735f691ba36dd0a03965de79e5fb5d07241131a5ddc8183c83960ce4ffe447049f93f3df541a688abfee9f7322a67dd5a501627e59bb2cf5dc31321d8d2051e3db7ad19dcb85ac91e6804d2078d3ff5fb68328287f35107083d5d8727bf7ada827e337b31ee59757df122ef4edb7adcafbb25d646a3b9f78947e9083c5a50c040691650cfdcccc66dc42bd879f99932810c68180b36744ab91919343ba27c5d5c7d5805de884278d61427ce32bf98355c6bbc6281497c7dde7e44ee55af5f9876de7d144dd9a27fa2ba849098057ae4387d1344d794681a13f0340387ba7aba6d
+      modulus_length: 2048
+      not_after: '1688100100'
+      not_before: '1656564100'
+      serial: 018455d67a
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: cisco.mananraj.co.in
+      validation_type: ~
+    cisco_mananraj_co_in_ea756_851ef_1669613174_f1f882afc7f6830e28854d86c1d43297: 
+      created: '1661840776'
+      domains: 
+        - "*.cisco.mananraj.co.in"
+        - cisco.mananraj.co.in
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “cisco.mananraj.co.in” 1661840776.0
+      id: cisco_mananraj_co_in_ea756_851ef_1669613174_f1f882afc7f6830e28854d86c1d43297
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: ea7563e5fafaada82d46cc57f28bb377c3c842f9a8d2f8deccaea1ac38e3cf0c45d1adb51e740da8416df80b4408adc1db851ae167b8823fb3872574782aa15c41cee5044e6159caa865ae899ae6f6cf93818c22a683eedf185091398f8696765a4b16c058f142094e00f2e9af8cef2f6d1ad967d9d293a9b9a5b7dd4cf658a8feae859bf58d5b2ae5d346c882e3f279850d0f19a4ebc873647f85628a00aacfdaeef1abef02428843c5bb8052a17eb882c6b1d88bcf0d3c43b5cf27e130634bf920bc9911bc77cb1a26b6e333c2e38de4f01f6b95b5911a86231d22491e0e1d9f50fe6d9a5a234e03d15d208ff96ca4c8826564d91a819aecb0704bfc8851ef
+      modulus_length: 2048
+      not_after: '1669613174'
+      not_before: '1661837175'
+      serial: 03e27e6d12e7f620167a2ffd2a2939e4fa5c
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: cisco.mananraj.co.in
+      validation_type: dv
+  key: 
+    dc274_aba6d_29e9ee546194368d07d96194d1d71509: 
+      created: '1656564100'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “cisco.mananraj.co.in”
+      id: dc274_aba6d_29e9ee546194368d07d96194d1d71509
+      key_algorithm: rsaEncryption
+      modulus: dc2747503d71014c254611a24b417777330939ac6f0860468051483264f26be735f691ba36dd0a03965de79e5fb5d07241131a5ddc8183c83960ce4ffe447049f93f3df541a688abfee9f7322a67dd5a501627e59bb2cf5dc31321d8d2051e3db7ad19dcb85ac91e6804d2078d3ff5fb68328287f35107083d5d8727bf7ada827e337b31ee59757df122ef4edb7adcafbb25d646a3b9f78947e9083c5a50c040691650cfdcccc66dc42bd879f99932810c68180b36744ab91919343ba27c5d5c7d5805de884278d61427ce32bf98355c6bbc6281497c7dde7e44ee55af5f9876de7d144dd9a27fa2ba849098057ae4387d1344d794681a13f0340387ba7aba6d
+      modulus_length: 2048
+    e72ad_a3d8d_66698883e010cc138f9a9129ccfe8bee: 
+      created: '1656564223'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “cisco.mananraj.co.in” 1656564223.0
+      id: e72ad_a3d8d_66698883e010cc138f9a9129ccfe8bee
+      key_algorithm: rsaEncryption
+      modulus: e72ad9f397021daf91ef2f2b153c70d7eb7ee3f7212324b0c9944076931bf54bdbd749a19267d07c8c112292cc21e712c9163597a983d27ea9072299c82c1485a513f005f966f9b7b0b4a41a2c2bc0db5d1d1fbce1839bd5adb6189177702b15e5e24741cb8964fcb98b73218496eb0805c884e7b7bb445acb438a0103332674aecc5a26f843d242b5aab8b2857163d6ef2d989b82e2b80f8de47f2f981b29e5fd784a9eb6db9fe2ae9273a49d781874c9f7f1ec31a855ff00bfced851bb496710b367e735922c8f539c2ccee8e396feb8b3b8ae77181319692799cb87744adf037483b35d0829c01b24eba493cf210fa37ee00a425f005e93c61e57937a3d8d
+      modulus_length: 2048
+    ea756_851ef_a61a9d8c764f4b1cf1a13cece3535d21: 
+      created: '1661840776'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “cisco.mananraj.co.in” 1661840776.0
+      id: ea756_851ef_a61a9d8c764f4b1cf1a13cece3535d21
+      key_algorithm: rsaEncryption
+      modulus: ea7563e5fafaada82d46cc57f28bb377c3c842f9a8d2f8deccaea1ac38e3cf0c45d1adb51e740da8416df80b4408adc1db851ae167b8823fb3872574782aa15c41cee5044e6159caa865ae899ae6f6cf93818c22a683eedf185091398f8696765a4b16c058f142094e00f2e9af8cef2f6d1ad967d9d293a9b9a5b7dd4cf658a8feae859bf58d5b2ae5d346c882e3f279850d0f19a4ebc873647f85628a00aacfdaeef1abef02428843c5bb8052a17eb882c6b1d88bcf0d3c43b5cf27e130634bf920bc9911bc77cb1a26b6e333c2e38de4f01f6b95b5911a86231d22491e0e1d9f50fe6d9a5a234e03d15d208ff96ca4c8826564d91a819aecb0704bfc8851ef
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      dc2747503d71014c254611a24b417777330939ac6f0860468051483264f26be735f691ba36dd0a03965de79e5fb5d07241131a5ddc8183c83960ce4ffe447049f93f3df541a688abfee9f7322a67dd5a501627e59bb2cf5dc31321d8d2051e3db7ad19dcb85ac91e6804d2078d3ff5fb68328287f35107083d5d8727bf7ada827e337b31ee59757df122ef4edb7adcafbb25d646a3b9f78947e9083c5a50c040691650cfdcccc66dc42bd879f99932810c68180b36744ab91919343ba27c5d5c7d5805de884278d61427ce32bf98355c6bbc6281497c7dde7e44ee55af5f9876de7d144dd9a27fa2ba849098057ae4387d1344d794681a13f0340387ba7aba6d: 
+        cisco_mananraj_co_in_dc274_aba6d_1688100100_639b7047573ec9b11eebe21f80e939ae: ~
+      e72ad9f397021daf91ef2f2b153c70d7eb7ee3f7212324b0c9944076931bf54bdbd749a19267d07c8c112292cc21e712c9163597a983d27ea9072299c82c1485a513f005f966f9b7b0b4a41a2c2bc0db5d1d1fbce1839bd5adb6189177702b15e5e24741cb8964fcb98b73218496eb0805c884e7b7bb445acb438a0103332674aecc5a26f843d242b5aab8b2857163d6ef2d989b82e2b80f8de47f2f981b29e5fd784a9eb6db9fe2ae9273a49d781874c9f7f1ec31a855ff00bfced851bb496710b367e735922c8f539c2ccee8e396feb8b3b8ae77181319692799cb87744adf037483b35d0829c01b24eba493cf210fa37ee00a425f005e93c61e57937a3d8d: 
+        _wildcard__cisco_mananraj_co_in_e72ad_a3d8d_1664336622_7991d167ee9474468a1769e432e1456a: ~
+      ea7563e5fafaada82d46cc57f28bb377c3c842f9a8d2f8deccaea1ac38e3cf0c45d1adb51e740da8416df80b4408adc1db851ae167b8823fb3872574782aa15c41cee5044e6159caa865ae899ae6f6cf93818c22a683eedf185091398f8696765a4b16c058f142094e00f2e9af8cef2f6d1ad967d9d293a9b9a5b7dd4cf658a8feae859bf58d5b2ae5d346c882e3f279850d0f19a4ebc873647f85628a00aacfdaeef1abef02428843c5bb8052a17eb882c6b1d88bcf0d3c43b5cf27e130634bf920bc9911bc77cb1a26b6e333c2e38de4f01f6b95b5911a86231d22491e0e1d9f50fe6d9a5a234e03d15d208ff96ca4c8826564d91a819aecb0704bfc8851ef: 
+        cisco_mananraj_co_in_ea756_851ef_1669613174_f1f882afc7f6830e28854d86c1d43297: ~
+    subject.commonName: 
+      "*.cisco.mananraj.co.in": 
+        _wildcard__cisco_mananraj_co_in_e72ad_a3d8d_1664336622_7991d167ee9474468a1769e432e1456a: ~
+      cisco.mananraj.co.in: 
+        cisco_mananraj_co_in_dc274_aba6d_1688100100_639b7047573ec9b11eebe21f80e939ae: ~
+        cisco_mananraj_co_in_ea756_851ef_1669613174_f1f882afc7f6830e28854d86c1d43297: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “cisco.mananraj.co.in”: cisco_mananraj_co_in_dc274_aba6d_1688100100_639b7047573ec9b11eebe21f80e939ae
+      Cert for “cisco.mananraj.co.in” 1656564223.0: _wildcard__cisco_mananraj_co_in_e72ad_a3d8d_1664336622_7991d167ee9474468a1769e432e1456a
+      Cert for “cisco.mananraj.co.in” 1661840776.0: cisco_mananraj_co_in_ea756_851ef_1669613174_f1f882afc7f6830e28854d86c1d43297
+  key: 
+    friendly_name: 
+      Key for “cisco.mananraj.co.in”: dc274_aba6d_29e9ee546194368d07d96194d1d71509
+      Key for “cisco.mananraj.co.in” 1656564223.0: e72ad_a3d8d_66698883e010cc138f9a9129ccfe8bee
+      Key for “cisco.mananraj.co.in” 1661840776.0: ea756_851ef_a61a9d8c764f4b1cf1a13cece3535d21
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      dc2747503d71014c254611a24b417777330939ac6f0860468051483264f26be735f691ba36dd0a03965de79e5fb5d07241131a5ddc8183c83960ce4ffe447049f93f3df541a688abfee9f7322a67dd5a501627e59bb2cf5dc31321d8d2051e3db7ad19dcb85ac91e6804d2078d3ff5fb68328287f35107083d5d8727bf7ada827e337b31ee59757df122ef4edb7adcafbb25d646a3b9f78947e9083c5a50c040691650cfdcccc66dc42bd879f99932810c68180b36744ab91919343ba27c5d5c7d5805de884278d61427ce32bf98355c6bbc6281497c7dde7e44ee55af5f9876de7d144dd9a27fa2ba849098057ae4387d1344d794681a13f0340387ba7aba6d: dc274_aba6d_29e9ee546194368d07d96194d1d71509
+      e72ad9f397021daf91ef2f2b153c70d7eb7ee3f7212324b0c9944076931bf54bdbd749a19267d07c8c112292cc21e712c9163597a983d27ea9072299c82c1485a513f005f966f9b7b0b4a41a2c2bc0db5d1d1fbce1839bd5adb6189177702b15e5e24741cb8964fcb98b73218496eb0805c884e7b7bb445acb438a0103332674aecc5a26f843d242b5aab8b2857163d6ef2d989b82e2b80f8de47f2f981b29e5fd784a9eb6db9fe2ae9273a49d781874c9f7f1ec31a855ff00bfced851bb496710b367e735922c8f539c2ccee8e396feb8b3b8ae77181319692799cb87744adf037483b35d0829c01b24eba493cf210fa37ee00a425f005e93c61e57937a3d8d: e72ad_a3d8d_66698883e010cc138f9a9129ccfe8bee
+      ea7563e5fafaada82d46cc57f28bb377c3c842f9a8d2f8deccaea1ac38e3cf0c45d1adb51e740da8416df80b4408adc1db851ae167b8823fb3872574782aa15c41cee5044e6159caa865ae899ae6f6cf93818c22a683eedf185091398f8696765a4b16c058f142094e00f2e9af8cef2f6d1ad967d9d293a9b9a5b7dd4cf658a8feae859bf58d5b2ae5d346c882e3f279850d0f19a4ebc873647f85628a00aacfdaeef1abef02428843c5bb8052a17eb882c6b1d88bcf0d3c43b5cf27e130634bf920bc9911bc77cb1a26b6e333c2e38de4f01f6b95b5911a86231d22491e0e1d9f50fe6d9a5a234e03d15d208ff96ca4c8826564d91a819aecb0704bfc8851ef: ea756_851ef_a61a9d8c764f4b1cf1a13cece3535d21

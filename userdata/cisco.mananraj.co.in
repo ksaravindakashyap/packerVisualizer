@@ -1,0 +1,25 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /etc/apache2/logs/domlogs/cisco.mananraj.co.in
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /etc/apache2/logs/domlogs/cisco.mananraj.co.in-bytes_log
+documentroot: /home/ciscomanan/public_html
+group: ciscomanan
+hascgi: 1
+homedir: /home/ciscomanan
+ip: 176.9.84.42
+owner: root
+phpopenbasedirprotect: 1
+port: 80
+scriptalias: 
+  - 
+    path: /home/ciscomanan/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@cisco.mananraj.co.in
+serveralias: mail.cisco.mananraj.co.in www.cisco.mananraj.co.in
+servername: cisco.mananraj.co.in
+usecanonicalname: 'Off'
+user: ciscomanan

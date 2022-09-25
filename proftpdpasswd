@@ -1,0 +1,3 @@
+ciscomanan:$6$Pbx8BvAUxcUfQWDH$dTgf12LKsiHqonWO5xTh9DswSGIPIwpFGdgaU/QJ6Ql2FyQrGyTABnXewzDQphSIyrjnOnE8FKQ6RFtBVa2Nx/:2316:2320:ciscomanan:/home/ciscomanan:/bin/ftpsh
+ciscomanan_logs:$6$Pbx8BvAUxcUfQWDH$dTgf12LKsiHqonWO5xTh9DswSGIPIwpFGdgaU/QJ6Ql2FyQrGyTABnXewzDQphSIyrjnOnE8FKQ6RFtBVa2Nx/:2316:2320:ciscomanan:/etc/apache2/logs/domlogs/ciscomanan:/bin/ftpsh
+ftp::14:50:ciscomanan:/home/ciscomanan/public_ftp:/bin/ftpsh
